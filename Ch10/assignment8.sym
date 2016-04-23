@@ -1,0 +1,20 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BASE                    303A
+//	MAX                     303B
+//	MAXpos                  303C
+//	POP                     3024
+//	PUSH                    301F
+//	READS                   302A
+//	done                    301E
+//	fail                    3023
+//	labl                    30CA
+//	loop1                   302D
+//	loop2                   3019
+//	msg1                    303D
+//	msg2                    3066
+//	msg3                    307F
+//	msg4                    3099
+//	msg5                    30AF
+//	nl                      30C9
+//	nlneg                   30C8
